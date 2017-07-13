@@ -1,0 +1,27 @@
+{
+  "name": "smr",
+  "version": "0.0.1",
+  "description": "Service Monthly Report",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@angular/core": "^4.2.6",
+    "@angular/common": "^4.2.6",
+    "@angular/compiler": "^4.2.6",
+    "@angular/forms": "^4.2.6",
+    "@angular/http": "^4.2.6",
+    "@angular/platform-browser": "^4.2.6",
+    "@angular/platform-browser-dynamic": "^4.2.6",
+    "@angular/router": "^4.2.6",
+    "systemjs": "^0.20.15",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.4.2",
+    "zone.js": "^0.8.13"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  },
+  "repository": {}
+}
