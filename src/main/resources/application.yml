@@ -1,0 +1,19 @@
+#
+# [ Database Configuration Section ]
+#
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/SMR
+    username: postgres
+    password: 123456789
+    platform: POSTGRESQL
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+  server:
+    port: 9095
+
+#
+# [ Other Configuration Attributes ]
+#
