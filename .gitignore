@@ -59,7 +59,5 @@ typings/
 .env
 
 .idea/
-out/
-target/
-*.iml
+test/
 
